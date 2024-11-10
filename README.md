@@ -11,11 +11,11 @@ This single player game is a clone of Galaga. The game was built as a solo proje
 ## Table Of Contents
 
 - [Snapshots](#Snapshots)
-    + [LaserDefender](#Laser-Defender)
 - [Getting Started](#getting-started)
     + [1. Setup-Unity](#1-Setup-Unity)
     + [2. Play The Game](#2-play-The-Game)
 - [My Roles and Responsibilities](#my-roles-and-responsibilities)
+- -[Contact](#Contact)
 
 ## Snapshots
 
