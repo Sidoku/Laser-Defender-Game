@@ -24,8 +24,8 @@ This single player game is a clone of Galaga. The game was built as a solo proje
 Below are some screenshots of the game.
 
 <p float = "left">
-<img height="600" width="300" src="Gameplay.png">
-<img height="600" width="300" src="GameOver.png">
+<img height="500" width="300" src="Gameplay.png">
+<img height="500" width="300" src="GameOver.png">
 </p>
 
 ## Getting Started
