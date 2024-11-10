@@ -21,7 +21,7 @@ This single player game is a clone of Galaga. The game was built as a solo proje
 
 #### Laser Defender
 
-Below are some screenshots of the game.
+Below are some screenshots of the game:
 
 <p align="center">
 <img height="500" width="300" src="Gameplay.png">
