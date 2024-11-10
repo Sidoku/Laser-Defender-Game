@@ -1,4 +1,6 @@
-<img width="30%" src="Gameplay.png">
+<div align="center">
+    <img width="30%" src="Gameplay.png">
+</div>
 
 ## Welcome to "Laser Defender" !
 
