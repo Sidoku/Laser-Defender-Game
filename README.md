@@ -49,11 +49,8 @@ Enjoy!
 ## My Roles and Responsibilities
 
 - UI/UX
-
 - Level design and implementation
-
 - Enemy spawning system
-
 - Projectile and collision system
 
 ## Contact
