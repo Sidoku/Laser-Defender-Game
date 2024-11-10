@@ -1,6 +1,4 @@
-==================
-
-<img width="50%" src="Gameplay.png">
+<img width="30%" src="Gameplay.png">
 
 ## Welcome to "Laser Defender" !
 
@@ -21,8 +19,8 @@ This single player game is a clone of Galaga. The game was built as a solo proje
 
 Below are some screenshots of the game.
 
-<img width="50%" src="StartScreen.png">
-<img width="50%" src="GameOver.png">
+<img width="30%" src="StartScreen.png">
+<img width="30%" src="GameOver.png">
 
 ## Getting Started
 
