@@ -4,7 +4,7 @@ Laser Defender
     <img width="30%" src="Gameplay.png">
 </div>
 
-## Project concept !
+## Project Concept
 
 This single player game is a clone of Galaga. The game was built as a solo project following a course on Udemy and used to learn about projectiles, spawners and gameplay systems. The player controls a single ship and must destroy waves of enemy ships which appear at varying speeds and health. The player increases their score depending on the difficulty of the enemy destroyed.
 
